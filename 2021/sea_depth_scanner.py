@@ -24,7 +24,6 @@ class SeaDepthScanner:
                 
             prev = current
             index = index + 1
-            
         print("The increase rate is: " + str(count))
         
     def slow(self, data):
